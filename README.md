@@ -1,1 +1,4 @@
-# Recreation of common library functions in C and a few extra
+# Recreation of common library functions
++ few extra (supposedly) handy functions in C.
+
+Repo will be updated as soon as more wild and useful functions appear from the bushes.
